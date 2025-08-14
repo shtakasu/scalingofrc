@@ -208,3 +208,4 @@ __marimo__/
 
 venv/
 funcs/__pycache__
+.DS_Store
